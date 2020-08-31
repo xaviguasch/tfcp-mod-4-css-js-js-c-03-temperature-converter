@@ -9,3 +9,5 @@ button.addEventListener('click', (e) => {
 
   result.innerText = celsius.toFixed(2)
 })
+
+console.log('testing')
